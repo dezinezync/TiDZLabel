@@ -6,6 +6,8 @@ TiDZLabel also auto truncates the text if it extends beyond the set width.
 
 Auto expanding height is still not supported. I shall look into implementing that soon. If you find a way to do that, do let me know via twitter: @dezinezync
 
+Note: This has not been tested on Android yet. If you have verified it, please do let me know.
+
 Screenshots:  
 ![](http://dezinezync.s3.amazonaws.com/github/TiDZLabel-1.png) 
 ![](http://dezinezync.s3.amazonaws.com/github/TiDZLabel-2.png) 
